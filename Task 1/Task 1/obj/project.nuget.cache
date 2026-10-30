@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q6IKiOOt/do=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jnx\\Desktop\\OzonTechPractice\\Task 1\\Task 1\\Task 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jnx\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0-rc.1.26425.128\\microsoft.extensions.dependencyinjection.11.0.0-rc.1.26425.128.nupkg.sha512",
+    "C:\\Users\\jnx\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0-rc.1.26425.128\\microsoft.extensions.dependencyinjection.abstractions.11.0.0-rc.1.26425.128.nupkg.sha512"
+  ],
+  "logs": []
+}

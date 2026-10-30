@@ -1,0 +1,2 @@
+client_id	orders_sum	favorite_item_name
+1010	5412,15	Чипсеки

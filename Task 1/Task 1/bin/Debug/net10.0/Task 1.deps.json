@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Task 1/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "11.0.0-rc.1.26425.128"
+        },
+        "runtime": {
+          "Task 1.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/11.0.0-rc.1.26425.128": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "11.0.0-rc.1.26425.128"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.42628"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/11.0.0-rc.1.26425.128": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.42628"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/11.0.0-rc.1.26425.128": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r9VvtUpwM0MZ21DaTQWDqmsm6ABmuuXA/4aqa9LJVZET0HGlIG0Z5eN2esarFAQW2xtgGFyIYcnWs5uxUUizgg==",
+      "path": "microsoft.extensions.dependencyinjection/11.0.0-rc.1.26425.128",
+      "hashPath": "microsoft.extensions.dependencyinjection.11.0.0-rc.1.26425.128.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/11.0.0-rc.1.26425.128": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HqzBGR7Ay7nMkkHif8eTQwP/N2FpV/eL+J863TUU35aImSYZlorx7wgUPJIhi6539l+Dam9J6SflsyaoyLAe+g==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/11.0.0-rc.1.26425.128",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.11.0.0-rc.1.26425.128.nupkg.sha512"
+    }
+  }
+}
